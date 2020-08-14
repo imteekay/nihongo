@@ -20,11 +20,11 @@ Using じゃない to express negative state of being:
 
 ---
 
-Using だた attached to a noun to express the past tense of state of being:
+Using だった attached to a noun to express the past tense of state of being:
 
-学生だた。was student
+学生だった。was student
 
-元気だた。was well
+元気だった。was well
 
 Using じゃなかった to express the negative past tense of state of being:
 
@@ -32,9 +32,34 @@ Using じゃなかった to express the negative past tense of state of being:
 
 ---
 
-State of being rules:
+## State of being rules:
 
 - Positive non-past state of being: attach だ。
-- Positive past state of being: attach だた。
+- Positive past state of being: attach だった。
 - Negative non-past state of being: attach じゃない。
 - Negative past state of being: attach じゃなかった。
+
+---
+
+## Exercises
+
+Using これ with state of being conjugation:
+
+- declarative: これだ。
+- negative: これじやない。
+- past: これだった。
+- negative-past: これじゃなかった。
+
+Using 大人 (おとな) with state of being conjugation:
+
+- declarative: 大人だ。
+- negative: 大人じやない。
+- past: 大人だった。
+- negative-past: 大人じゃなかった。
+
+Using 学校 (がっこう) with state of being conjugation:
+
+- declarative: 学校だ。
+- negative: 学校じやない。
+- past: 学校だった。
+- negative-past: 学校じゃなかった。
