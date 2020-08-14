@@ -63,3 +63,14 @@ Using 学校 (がっこう) with state of being conjugation:
 - negative: 学校じやない。
 - past: 学校だった。
 - negative-past: 学校じゃなかった。
+
+Question & Answer:
+
+Q: 学生？
+A: ううん、学生じゃない？
+
+Q: これ？
+A: これだ。
+
+Q: それだった？
+A: ううん、それじゃなかった。
