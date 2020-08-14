@@ -1,2 +1,5 @@
-# nihongo
-learning japanese on my own way
+# Nihongo
+
+Learning japanese on my own way
+
+- [Grammar](./grammar/README.md)
