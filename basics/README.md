@@ -1,3 +1,3 @@
 # Nihongo
 
-- [Basics](./greetings.md)
+- [Basics](/greetings.md)
