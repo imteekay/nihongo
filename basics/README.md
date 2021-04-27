@@ -1,0 +1,3 @@
+# Nihongo
+
+- [Basics](./greetings.md)
