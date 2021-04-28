@@ -14,17 +14,25 @@ I study.
 
 わたしは勉強します。
 
+---
+
 I study Japanese.
 
 わたしは日本語を勉強します。
+
+---
 
 I study Japanese with a friend.
 
 わたしは友達と日本土を勉強します。
 
+---
+
 I study Japanese with a friend at a cafe.
 
 わたしは友達とカフェで日本語を勉強します。
+
+---
 
 I study Japanese with a friend at a cafe in the morning.
 
@@ -36,6 +44,8 @@ I study Japanese with Risa.
 
 わたしはりさと日本語を勉強します。
 
+---
+
 I study Japanese at the classroom
 
 わたしは教室で日本語を勉強します。
@@ -46,17 +56,25 @@ Mary is American.
 
 メアリーさんはアメリカ神です。
 
+---
+
 Mary is a 2nd year student.
 
 メアリーさんは二年生です。
+
+---
 
 Mary is 19.
 
 メアリーさんはじゅくです。
 
+---
+
 Mary is a student from University of Arizona.
 
 メアリーさんはアリゾナ大学の学生です。
+
+---
 
 Mary's major is Japanese.
 
@@ -68,23 +86,31 @@ Takeshi is Japanese.
 
 たけしは日本人です。
 
+---
+
 Takeshi is a 4th year student.
 
 たけしは四年青年生。
+
+---
 
 Takeshi is 22.
 
 たけしは二樹にさあいです。
 
+---
+
 Takeshi is a student from Sakura University.
 
 たけしは桜大学の学生です。
+
+---
 
 Takeshi's major is history.
 
 たけしはの先行は歴史です。
 
-
+---
 
 ## Examples: Questions and Answers
 
