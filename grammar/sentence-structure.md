@@ -82,4 +82,4 @@ Takeshi is a student from Sakura University.
 
 Takeshi's major is history.
 
-たけしは
+たけしはの先行は歴史です。
