@@ -83,3 +83,18 @@ Takeshi is a student from Sakura University.
 Takeshi's major is history.
 
 たけしはの先行は歴史です。
+
+## Examples: Questions and Answers
+
+Q: たけしは日本人ですか。
+A: はい、日本人です。
+
+---
+
+Q: たけしさんはじゅうくさいですか。
+A: いいえ、たけしさんは二十二歳です。
+
+---
+
+Q: ろばーとさんのせんこうはビジニスですか。
+A: はい、ビジニスです。
