@@ -32,3 +32,20 @@ I study Japanese with Risa.
 
 I study Japanese at the classroom
 わたしは教室で日本語を勉強します。
+
+## Examples about a person
+
+Mary is American.
+メアリーさんはアメリカ神です。
+
+Mary is a 2nd year student.
+メアリーさんは二年生です。
+
+Mary is 19.
+メアリーさんはじゅくです。
+
+Mary is a student from University of Arizona.
+メアリーさんはアリゾナ大学の学生です。
+
+Mary's major is Japanese.
+メアリーさんのせんこうは日本語です。
