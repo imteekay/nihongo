@@ -30,7 +30,7 @@ I study Japanese with a friend at a cafe in the morning.
 
 わたしはあさに友達とカフェで日本語を勉強します。
 
-## Some variations
+### Some variations
 
 I study Japanese with Risa.
 
@@ -40,7 +40,7 @@ I study Japanese at the classroom
 
 わたしは教室で日本語を勉強します。
 
-## Examples about a person
+## Examples about a person: Mary
 
 Mary is American.
 
@@ -61,3 +61,25 @@ Mary is a student from University of Arizona.
 Mary's major is Japanese.
 
 メアリーさんのせんこうは日本語です。
+
+## Examples about a person: Takeshi
+
+Takeshi is Japanese.
+
+たけしは日本人です。
+
+Takeshi is a 4th year student.
+
+たけしは四年青年生。
+
+Takeshi is 22.
+
+たけしは二樹にさあいです。
+
+Takeshi is a student from Sakura University.
+
+たけしは桜大学の学生です。
+
+Takeshi's major is history.
+
+たけしは
