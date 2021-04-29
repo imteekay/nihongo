@@ -8,3 +8,5 @@ Learning japanese on my own way
   - [Sentence structure](grammar/sentence-structure.md)
 - [Basics](basics/README.md)
   - [Greetings](basics/greetings.md)
+- [Vocabulary](vocabulary/README.md)
+  - [Majors - Senkou](vocabulary/majors.md)
