@@ -1,5 +1,9 @@
 # Neko Lyrics Translation
 
+Band: Dish//
+
+![Dish band](./dish.jpeg)
+
 | Kanji                                   | Hiragana / Katakana            | Romaji                              | English                                                               |
 | --------------------------------------- | ------------------------------ | ----------------------------------- | --------------------------------------------------------------------- |
 | 夕焼けが燃えてこの街ごと                | ゆうやけがもえとこのまちごと   | yūyake ga moete kono machigoto      | Today, where the sunset burned out and seems to swallow this city up, |
@@ -37,3 +41,7 @@
 | 全力で忘れようとするけど                |                                |                                     |                                                                       |
 | 全身で君を求めてる                      |                                |                                     |                                                                       |
 | 猫になったんだよな 君は                 |                                |                                     |                                                                       |
+
+## Resources
+
+- [DISH// – 猫 (Neko) Kanji + Romanization + English Lyrics Translation](https://amourpropre97.wordpress.com/2020/03/07/dish-%E7%8C%AB-neko-kanji-romanization-english-lyrics-translation/)
