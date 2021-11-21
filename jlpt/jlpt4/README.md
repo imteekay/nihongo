@@ -3,6 +3,7 @@
 ## Exercises
 
 - [001](exercises/001.md)
+- [002](exercises/002.md)
 
 ## Resources
 
