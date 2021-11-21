@@ -11,4 +11,4 @@ Learning japanese on my own way
 - [Vocabulary](vocabulary/README.md)
   - [Majors - Senkou](vocabulary/majors.md)
 - [JLPT](jlpt/README.md)
-  - [JLPT 4](jlpt/jlpt4.md)
+  - [JLPT 4](jlpt/jlpt4/README.md)
