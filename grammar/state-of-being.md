@@ -1,3 +1,5 @@
+<samp>
+
 # State of being.
 
 Using the character だ attached to a noun to express state of being:
@@ -74,3 +76,5 @@ A: これだ。
 
 Q: それだった？
 A: ううん、それじゃなかった。
+
+</samp>
