@@ -1,3 +1,5 @@
+<samp>
+
 # Particles
 
 Using particles to associate a noun with another noun.
@@ -45,3 +47,5 @@ Seeking to identify who is the thing, in this case, the student.
 Using は to ask about the topic, the specific student.
 
 学生はだれですか。
+
+<samp>
