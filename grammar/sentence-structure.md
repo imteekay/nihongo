@@ -1,3 +1,5 @@
+<samp>
+
 # Sentence Structure
 
 ## Building the Japanese sentence
@@ -155,3 +157,5 @@ A: いいえ、たけしさんは二十二歳です。
 Q: ろばーとさんのせんこうはビジニスですか。
 
 A: はい、ビジニスです。
+
+</samp>
