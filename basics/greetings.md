@@ -1,3 +1,5 @@
+<samp>
+
 # Greetings
 
 おはよう。　ー　Good morning
@@ -31,3 +33,5 @@
 おかえりなさい。　ー　Welcome home.
 
 ただいま。　ー　I'm home.
+
+<samp>
