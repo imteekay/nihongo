@@ -1,3 +1,5 @@
+<samp>
+
 # Nihongo
 
 Learning japanese on my own way
@@ -12,3 +14,5 @@ Learning japanese on my own way
   - [Majors - Senkou](vocabulary/majors.md)
 - [JLPT](jlpt/README.md)
   - [JLPT 4](jlpt/jlpt4/README.md)
+
+</samp>
