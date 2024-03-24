@@ -24,5 +24,6 @@ Learning japanese on my own way
 ### Listening
 
 - [Haru no Nihongo](https://www.youtube.com/@harunonihongo)
+- [okanananako](https://www.youtube.com/@shortmovie_okanananako)
 
 </samp>
