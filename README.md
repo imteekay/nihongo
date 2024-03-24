@@ -23,6 +23,6 @@ Learning japanese on my own way
 
 ### Listening
 
-- [Haru no Nihongo](https://www.youtube.com/watch?v=FnaSOdQVb2I&ab_channel=HarunoNihongo)
+- [Haru no Nihongo](https://www.youtube.com/@harunonihongo)
 
 </samp>
