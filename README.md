@@ -26,5 +26,6 @@ Learning japanese on my own way
 - [Haru no Nihongo](https://www.youtube.com/@harunonihongo)
 - [okanananako](https://www.youtube.com/@shortmovie_okanananako)
 - [Akiko_Japanese_Conversations](https://www.youtube.com/@Aki-SenseiJPN)
+- [Chieko Osugi](https://www.youtube.com/@chiekoosugi233)
 
 </samp>
