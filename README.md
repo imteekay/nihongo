@@ -21,4 +21,8 @@ Learning japanese on my own way
 - [Minato e-learning](https://minato-jf.jp/Home/Back#CourseList)
 - [Marugoto Online](https://marugotoweb.jp/en/index.php)
 
+### Listening
+
+- [Haru no Nihongo](https://www.youtube.com/watch?v=FnaSOdQVb2I&ab_channel=HarunoNihongo)
+
 </samp>
