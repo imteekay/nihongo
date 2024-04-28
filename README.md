@@ -21,6 +21,7 @@ Learning japanese on my own way
 - [Minato e-learning](https://minato-jf.jp/Home/Back#CourseList)
 - [Marugoto Online](https://marugotoweb.jp/en/index.php)
 - [NHK Easy](https://www3.nhk.or.jp/news/easy)
+- [Matcha Easy](https://matcha-jp.com/easy)
 
 ### Listening
 
