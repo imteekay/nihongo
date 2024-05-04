@@ -43,6 +43,22 @@
   - Chuumon (pedido)
     - Sumimasen, hanbaagaa futatsu, furaido poteto mitsu kudasai
     - doomo arigatou gozaimasu
+- ie
+  - Doko ni sundeimasuka = onde mora?
+    - sao paulo ni sundemasu
+  - Donna ieni sunde iimasu (donna ie desuka): que tipo de casa mora
+    - watashi no ie wa manshon desu
+  - Dare to sundemasuka = com quem você mora?
+    - kanojo to sundeimasu
+  - Ie wa doo desuka = como é sua casa?
+    - watashi no ie wa akarui desu
+  - Heya ikutsu arimasuka = quantos comodos tem?
+  - Chikaku ni naniga arimasuka = o que tem perto?
+  - sao paulo ni sundemasu, watashi no ie wa manshon desu, kanojo to sundeimasu, watashi no ie wa akarui desu
+  - anata no ie ni Nani ga arimasuka = o que tem na casa?
+    - watashi no ie niwa heya ga yotsu arimasu, beddo ga futatsu arimasu, eakon ga arimasu, terebi mo arimasu
+  - heya ga ikutsu arimasuka = quantos comodos tem?
+    - heya ga ikutsu arimasu
 - Anata no ichinichi wo hanashi te kudasai
 - Hiragana / Katakana
   - Escolher 3 hiraganas e 2 katakanas
