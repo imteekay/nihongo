@@ -31,3 +31,14 @@
 - Hiragana / Katakana
   - Escolher 3 hiraganas e 2 katakanas
   - Ler e falar o significado
+
+## Jikoshookai
+
+Hajimemashite
+
+- Namae: Watashi no namae wa Kinoshita Toshiyuki Leandro desu
+- Nenrei: Sanjyu sai desu
+- Shokugoyu: software engineer desu
+- Go ga dekimasu: porutogarugo to eigo ga dekimasu. nihongo sukoshi dekimasu. ima benkyo chuu desu.
+- ni sundemasu: São Paulo ni sundemasu
+- Kazoku: kazoku wa roku nin desu. chichi to haha to san nin otooto to watashi desu
