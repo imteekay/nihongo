@@ -18,9 +18,15 @@
   - Hajimemashite, Leandro desu
   - Burajiru jin desu
   - Dochiraka desuka = de onde é?
+  - Okuni wa?
   - Nanigo ga dekimasuka = que idioma você fala?
+  - Nihongo wa wakarimasuka
   - Oshigoto wa?
+  - Doko ni sundeimasuka
   - Watashi no kazoku wa roku nin desu. Chichi to haha to san nin otouto to watashi desu
+  - kazoku nanin desuka
+  - Daredesuka
+  - Oikutsu desuka
 - Anata no ichinichi wo hanashi te kudasai
 - Hiragana / Katakana
   - Escolher 3 hiraganas e 2 katakanas
