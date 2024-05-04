@@ -27,6 +27,22 @@
   - kazoku nanin desuka
   - Daredesuka
   - Oikutsu desuka
+- Tabemono
+  - Tabemono wa nani ga sukidesuka
+  - Itsumo asagohan wo tabemasuka
+  - Donna mise desuka
+  - Suki desu.
+    - e.g. nihon no sushi ga ichiban sukidesu
+    - e.g. sakana wa sukijanaidesu
+  - kohi, nomimasuka
+  - Sukina ryoori wa nandesuka
+    - kare ga suki desu
+  - kyou wa doko de tabemasuka
+    - ano mise de tabemashou
+    - ano mise wa oishii desuyo
+  - Chuumon (pedido)
+    - Sumimasen, hanbaagaa futatsu, furaido poteto mitsu kudasai
+    - doomo arigatou gozaimasu
 - Anata no ichinichi wo hanashi te kudasai
 - Hiragana / Katakana
   - Escolher 3 hiraganas e 2 katakanas
