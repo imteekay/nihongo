@@ -74,3 +74,13 @@ Hajimemashite
 - Go ga dekimasu: porutogarugo to eigo ga dekimasu. nihongo sukoshi dekimasu. ima benkyo chuu desu.
 - ni sundemasu: São Paulo ni sundemasu
 - Kazoku: kazoku wa roku nin desu. chichi to haha to san nin otooto to watashi desu
+
+Watashi no ichinichi wo hanashimashou
+
+- roku ji goro okimasu
+- shichi ji ni benkyoou wo shimasu
+- kuji goro shigoto wo shimasu
+- goji goro undoo wo shimasu
+- hachi ji goro bangohan wo tabemasu
+- kuji goro hon wo yomimasu
+- jyuuji goro nemasu
