@@ -84,3 +84,10 @@ Watashi no ichinichi wo hanashimashou
 - hachi ji goro bangohan wo tabemasu
 - kuji goro hon wo yomimasu
 - jyuuji goro nemasu
+
+Schedule
+
+- raishuu no getsuyoubi kara kinyoubi made shigoto wo shimasu
+- kinyoubi ni kanojo to paati ni ikimasu
+- maishuu doyobi ni nihongo benkyou wo shimasu
+- nichiyoubi ni kazoku to shokuji wo shimasu
