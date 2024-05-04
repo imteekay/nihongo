@@ -14,6 +14,13 @@
   - Wakarimashita. Wakarimasen
   - Chotto shitsureishimasu
   - Yasumimasu (faltar). Okuremasu (chegar atrasado).
+- Watashi to kazoku
+  - Hajimemashite, Leandro desu
+  - Burajiru jin desu
+  - Dochiraka desuka = de onde é?
+  - Nanigo ga dekimasuka = que idioma você fala?
+  - Oshigoto wa?
+  - Watashi no kazoku wa roku nin desu. Chichi to haha to san nin otouto to watashi desu
 - Anata no ichinichi wo hanashi te kudasai
 - Hiragana / Katakana
   - Escolher 3 hiraganas e 2 katakanas
