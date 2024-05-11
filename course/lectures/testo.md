@@ -76,6 +76,33 @@ Hajimemashite
 - Kazoku: kazoku wa roku nin desu. chichi to haha to san nin otooto to watashi desu
 - yoroshiku onegaishimasu / Kochira koso
 
+### Perguntas
+
+- Doko ni sundeimasuka = onde mora?
+  - sao paulo ni sundemasu
+- Donna ieni sunde irka iimasu (donna ie desuka): que tipo de casa mora
+  - watashi no ie wa manshon desu
+- Dare to sundemasuka = com quem você mora?
+  - kanojo to sundeimasu
+- Ie wa doo desuka = como é sua casa?
+  - watashi no ie wa akarui desu
+- Heya ikutsu arimasuka = quantos comodos tem?
+  - heya ga yotsu arimasu
+- Chikaku ni naniga arimasuka = o que tem perto?
+- sao paulo ni sundemasu, watashi no ie wa manshon desu, kanojo to sundeimasu, watashi no ie wa akarui desu
+- anata no ie ni Nani ga arimasuka = o que tem na casa?
+  - watashi no ie niwa heya ga yotsu arimasu, beddo ga futatsu arimasu, eakon ga arimasu, terebi mo arimasu
+
+### Restaurante
+
+- Ikutsu desuka: quantos?
+  - hambaagaa ikutsu desuka = quantos hamburguers?
+- Chiizu baagaa yotsu to furaido poteto futatsu to orenji juusu hitotsu kudasai
+- Omochi desuka / omochi kaeri desuka = É para viagem?
+  - iie
+  - hai, onegaishimasu
+- shosho omachi kudasai = aguarde um momento
+
 Watashi no ichinichi wo hanashimashou
 
 - roku ji goro okimasu
