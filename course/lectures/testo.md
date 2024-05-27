@@ -80,7 +80,7 @@ Hajimemashite
 
 - Doko ni sundeimasuka = onde mora?
   - sao paulo ni sundemasu
-- Donna ieni sunde irka iimasu (donna ie desuka): que tipo de casa mora
+- Donna ieni sunde imasuka (donna ie desuka): que tipo de casa mora
   - watashi no ie wa manshon desu
 - Dare to sundemasuka = com quem você mora?
   - kanojo to sundeimasu
