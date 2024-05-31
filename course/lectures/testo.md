@@ -78,6 +78,14 @@ Hajimemashite
 
 ### Perguntas
 
+- oikutsu desuka = quantos anos tem?
+  - sanjyu isai deu
+- oshigoto wa = qual seu trabalho?
+  - software engineer desu
+- kazoku wa nan nin desuka = quantas pessoas são na sua familia?
+  - kazoku wa roku nin desu. chichi to haha to san nin otooto to watashi desu
+- nani go ga dekimasuka = quais linguas vce entende?
+  - porutogarugo to eigo ga dekimasu. nihongo sukoshi dekimasu. ima benkyo chuu desu.
 - Doko ni sundeimasuka = onde mora?
   - sao paulo ni sundemasu
 - Donna ieni sunde imasuka (donna ie desuka): que tipo de casa mora
@@ -92,6 +100,15 @@ Hajimemashite
 - sao paulo ni sundemasu, watashi no ie wa manshon desu, kanojo to sundeimasu, watashi no ie wa akarui desu
 - anata no ie ni Nani ga arimasuka = o que tem na casa?
   - watashi no ie niwa heya ga yotsu arimasu, beddo ga futatsu arimasu, eakon ga arimasu, terebi mo arimasu
+- sukina ryori wa nandesuka = qual seu prato favorito?
+  - nihon ryoori suki desu
+- nanji ni okimasu ka = a que horas acorda?
+  - roku ji goro okimasu
+- nanji ni nemasu ka = a que horas dorme?
+  - jyuuji goro nemasu
+- bangohan no atode nani wo shimasuka = o que faz depois da janta?
+  - netflix wo mimasu
+- nanji kara nanji made nihongo benkyo shimasuka = de que horas até que horas estuda nihongo?
 
 ### Restaurante
 
