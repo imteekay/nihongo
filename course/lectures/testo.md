@@ -79,7 +79,7 @@ Hajimemashite
 ### Perguntas
 
 - oikutsu desuka = quantos anos tem?
-  - sanjyu isai deu
+  - sanjyu isai desu
 - oshigoto wa = qual seu trabalho?
   - software engineer desu
 - kazoku wa nan nin desuka = quantas pessoas são na sua familia?
@@ -101,7 +101,7 @@ Hajimemashite
 - anata no ie ni Nani ga arimasuka = o que tem na casa?
   - watashi no ie niwa heya ga yotsu arimasu, beddo ga futatsu arimasu, eakon ga arimasu, terebi mo arimasu
 - sukina ryori wa nandesuka = qual seu prato favorito?
-  - nihon ryoori suki desu
+  - nihon ryoori suki desu. nihon no sushi gaa suki desu.
 - nanji ni okimasu ka = a que horas acorda?
   - roku ji goro okimasu
 - nanji ni nemasu ka = a que horas dorme?
