@@ -77,3 +77,4 @@
   - tanoshitakkata desu
 - tsugi wa dokoni ikitaidesuka
   - tsugi wa nagano ken ni ikitai desu
+  - tsugi wa canada ni ikitai desu
