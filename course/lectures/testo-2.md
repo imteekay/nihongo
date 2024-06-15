@@ -15,8 +15,9 @@
 - kore wa nandesuka = o que é isto?
 - dooyatte tsukaimasuka = como usa?
 - kooyatte tsukaimasu
-- yoku hon wo yomimasuka = Lê livros frequentemente?
-  - hai, yoku yomimasu
+
+## ブログ
+
 - konshu wa doudeshitaka
   - restoran de kanojyou to tabeni ikimashita
 - doko ni konshu wa ikiashitaka
