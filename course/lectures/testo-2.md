@@ -60,6 +60,14 @@ Hajimemashite
   - hai mini ikimasu | tabun mi ni ikimasu
 - isshoni mini ikimasenka = não quer ir junto?
   - ii desu ne, ikimashou
+- dooyatte ikimasuka = vai como? e.g. koko kara koen made dooyatte ikimasuka
+  - koen wa densha ga ii desu yo. Hayai desu kara
+  - densha de ikiasu
+  - densha ni norimasu
+  - ueno eki de orimasu
+- nan ni norimasuka = vai de que?
+- dooshite soreni norimasuka = porque vai pegar esse transporte?
+  - benri desu kara. hayai desu kara
 - yoku hon wo yomimasuka = Lê livros frequentemente?
   - hai, yoku yomimasu
 - konshu wa doudeshitaka
