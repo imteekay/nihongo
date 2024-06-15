@@ -57,6 +57,8 @@ Hajimemashite
   - kazoku to restoran de tabeni ikimashita
 - konshu wa doudeshitaka
   - restoran de kanojyou to tabeni ikimashita
+- doko ni konshu wa ikiashitaka
+  - restoran ni ikimashita, kankoku ryori restoran
 
 Watashi no ichinichi wo hanashimashou
 
