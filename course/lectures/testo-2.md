@@ -55,6 +55,8 @@ Hajimemashite
   - tanoshikatta desu
 - yasumi no hi wa nani wo shimashitaka = o que fez no seu dia de folga?
   - kazoku to restoran de tabeni ikimashita
+- konshu wa doudeshitaka
+  - restoran de kanojyou to tabeni ikimashita
 
 Watashi no ichinichi wo hanashimashou
 
