@@ -66,6 +66,7 @@ Hajimemashite
   - densha ni norimasu
   - ueno eki de orimasu
 - nan ni norimasuka = vai de que?
+  - densha de ikiasu
 - dooshite soreni norimasuka = porque vai pegar esse transporte?
   - benri desu kara. hayai desu kara
 - yoku hon wo yomimasuka = Lê livros frequentemente?
