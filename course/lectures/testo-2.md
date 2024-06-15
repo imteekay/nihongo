@@ -66,7 +66,7 @@ Hajimemashite
   - densha ni norimasu
   - ueno eki de orimasu
 - nan(i) ni norimasuka = vai de que?
-  - densha de ikiasu
+  - densha de ikimasu
 - dooshite soreni norimasuka = porque vai pegar esse transporte?
   - benri desu kara. hayai desu kara
 - chizu = mapa
