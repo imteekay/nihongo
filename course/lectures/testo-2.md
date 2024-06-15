@@ -87,6 +87,9 @@ Hajimemashite
   - hai arimasu
 - kite mitemo ii desu ka = posso provar?
 - ja, kore kudasai
+- kore wa nandesuka = o que é isto?
+- dooyatte tsukaimasuka = como usa?
+- kooyatte tsukaimasu
 - yoku hon wo yomimasuka = Lê livros frequentemente?
   - hai, yoku yomimasu
 - konshu wa doudeshitaka
