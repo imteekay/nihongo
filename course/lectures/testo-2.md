@@ -52,12 +52,12 @@ Hajimemashite
   - supootsu ga sukidesu
 - donna supootsu ga sukidesuka = que tipo de esporte você gosta?
   - sakka to tenisu ga sukidesu
-- yoku hon wo yomimasuka = Lê livros frequentemente?
-  - hai, yoku yomimasu
+- yasumi no hi wa nani wo shimashitaka = o que fez no seu dia de folga?
+  - kazoku to kankoku no restoran de tabeni ikimashita
 - yasumi no hi wa doodeshitaka = como foi o seu dia de folga?
   - tanoshikatta desu
-- yasumi no hi wa nani wo shimashitaka = o que fez no seu dia de folga?
-  - kazoku to restoran de tabeni ikimashita
+- yoku hon wo yomimasuka = Lê livros frequentemente?
+  - hai, yoku yomimasu
 - konshu wa doudeshitaka
   - restoran de kanojyou to tabeni ikimashita
 - doko ni konshu wa ikiashitaka
