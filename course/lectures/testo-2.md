@@ -27,14 +27,6 @@
   - massugu ikimasu soshite migi ni ikimasu
 - ima doko desu ka = onde está agora?
   - ima wa eki no naka desu
-- nani ga hoshii desu ka = o que quer?
-  - t-shatsu ga hoshii desu
-- donna t-shatsu ga hoshii desuka
-  - omoshiroi t-shatsu
-- dare ni agemasuka
-  - tomodachi ni agemasu
-- ikutsu hoshii desu ka
-  - ichi mai desu
 - doko de kaemasu ka = onde dá pra comprar?
   - harajuku ga ii desu yo
 - hoka no iro arimasu ka = tem outra cor?
@@ -69,6 +61,17 @@
   - tanoshitakkata desu
 - tsugi wa dokoni ikitaidesuka
   - tsugi wa nagano ken ni ikitai desu
+
+## なにがほしいですか
+
+- nani ga hoshii desu ka = o que quer?
+  - t-shatsu ga hoshii desu
+- donna t-shatsu ga hoshii desuka = que tipo de camiseta?
+  - omoshiroi t-shatsu
+- dare ni agemasuka = para quem vai dar?
+  - tomodachi ni agemasu
+- ikutsu hoshii desu ka = quantos vai querer?
+  - ichi mai desu
 
 ## これください
 
