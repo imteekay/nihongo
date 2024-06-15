@@ -69,6 +69,8 @@ Hajimemashite
   - densha de ikiasu
 - dooshite soreni norimasuka = porque vai pegar esse transporte?
   - benri desu kara. hayai desu kara
+- chizu = mapa
+  - massugu ikimasu soshite migi ni ikimasu
 - yoku hon wo yomimasuka = Lê livros frequentemente?
   - hai, yoku yomimasu
 - konshu wa doudeshitaka
