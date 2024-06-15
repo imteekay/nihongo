@@ -56,6 +56,10 @@ Hajimemashite
   - kazoku to kankoku no restoran de tabeni ikimashita
 - yasumi no hi wa doodeshitaka = como foi o seu dia de folga?
   - tanoshikatta desu
+- mini ikimasuka = vai ver? (e.g. sumoou min ni ikimasu ka)
+  - hai mini ikimasu | tabun mi ni ikimasu
+- isshoni mini ikimasenka = não quer ir junto?
+  - ii desu ne, ikimashou
 - yoku hon wo yomimasuka = Lê livros frequentemente?
   - hai, yoku yomimasu
 - konshu wa doudeshitaka
