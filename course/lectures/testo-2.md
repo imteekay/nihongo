@@ -73,6 +73,20 @@ Hajimemashite
   - massugu ikimasu soshite migi ni ikimasu
 - ima doko desu ka = onde está agora?
   - ima wa eki no naka desu
+- nani ga hoshii desu ka = o que quer?
+  - t-shatsu ga hoshii desu
+- donna t-shatsu ga hoshii desuka
+  - omoshiroi t-shatsu
+- dare ni agemasuka
+  - tomodachi ni agemasu
+- ikutsu hoshii desu ka
+  - ichi mai desu
+- doko de kaemasu ka = onde dá pra comprar?
+  - harajuku ga ii desu yo
+- hoka no iro arimasu ka = tem outra cor?
+  - hai arimasu
+- kite mitemo ii desu ka = posso provar?
+- ja, kore kudasai
 - yoku hon wo yomimasuka = Lê livros frequentemente?
   - hai, yoku yomimasu
 - konshu wa doudeshitaka
