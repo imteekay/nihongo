@@ -68,7 +68,7 @@ Hajimemashite
 - nan(i) ni norimasuka = vai de que?
   - densha de ikimasu
 - dooshite soreni norimasuka = porque vai pegar esse transporte?
-  - benri desu kara. hayai desu kara
+  - benri desu kara. hayai desu kara. yasui desu kara
 - chizu = mapa
   - massugu ikimasu soshite migi ni ikimasu
 - ima doko desu ka = onde está agora?
