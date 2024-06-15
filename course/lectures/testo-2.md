@@ -45,6 +45,10 @@ Hajimemashite
 - bangohan no atode nani wo shimasuka = o que faz depois da janta?
   - netflix wo mimasu
 - nanji kara nanji made nihongo benkyo shimasuka = de que horas até que horas estuda nihongo?
+- yasumi no hi wa doodeshitaka = como foi o seu dia de folga?
+  - tanoshikatta desu
+- yasumi no hi wa nani wo shimashitaka = o que fez no seu dia de folga?
+  - kazoku to restoran de tabeni ikimashita
 
 Watashi no ichinichi wo hanashimashou
 
