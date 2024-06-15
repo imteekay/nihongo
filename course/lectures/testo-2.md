@@ -1,15 +1,5 @@
 # Testo II
 
-## Questions
-
-- chizu = mapa
-  - massugu ikimasu soshite migi ni ikimasu
-- ima doko desu ka = onde está agora?
-  - ima wa eki no naka desu
-- kore wa nandesuka = o que é isto?
-- dooyatte tsukaimasuka = como usa?
-- kooyatte tsukaimasu
-
 ## しゅみ
 
 - shumi wa nandesuka = qual seu hobby?
@@ -40,6 +30,13 @@
   - ichi mai desu
 - doko de kaemasu ka = onde dá pra comprar?
   - harajuku ga ii desu yo
+
+## どこ
+
+- chizu = mapa
+  - massugu ikimasu soshite migi ni ikimasu
+- ima doko desu ka = onde está agora?
+  - ima wa eki no naka desu
 
 ## これください
 
