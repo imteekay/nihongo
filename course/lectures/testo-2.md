@@ -60,7 +60,7 @@ Hajimemashite
 - doko ni konshu wa ikiashitaka
   - restoran ni ikimashita, kankoku ryori restoran
 - roku gatsu, jyu yokka, kinyoubi
-  - shigoto wo shimata, kankoku ryori restoran de ikimashita
+  - shigoto wo shimata, kankoku ryori no restoran ni ikimashita
   - tanoshikatta desu
 
 Watashi no ichinichi wo hanashimashou
