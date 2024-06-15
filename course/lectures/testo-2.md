@@ -1,17 +1,5 @@
 # Testo II
 
-## Jikoshookai
-
-Hajimemashite
-
-- Namae: Watashi no namae wa Kinoshita Toshiyuki Leandro desu
-- Nenrei: Sanjyu sai desu
-- Shokugoyu: software engineer desu
-- Go ga dekimasu: porutogarugo to eigo ga dekimasu. nihongo sukoshi dekimasu. ima benkyo chuu desu.
-- ni sundemasu: São Paulo ni sundemasu
-- Kazoku: kazoku wa roku nin desu. chichi to haha to san nin otooto to watashi desu
-- yoroshiku onegaishimasu / Kochira koso
-
 ### Perguntas
 
 - oikutsu desuka = quantos anos tem?
@@ -115,20 +103,3 @@ Hajimemashite
   - tanoshitakkata desu
 - tsugi wa dokoni ikitaidesuka
   - tsugi wa nagano ken ni ikitai desu
-
-Watashi no ichinichi wo hanashimashou
-
-- roku ji goro okimasu
-- shichi ji ni benkyoou wo shimasu
-- kuji goro shigoto wo shimasu
-- goji goro undoo wo shimasu
-- hachi ji goro bangohan wo tabemasu
-- kuji goro hon wo yomimasu
-- jyuuji goro nemasu
-
-Schedule
-
-- raishuu no getsuyoubi kara kinyoubi made shigoto wo shimasu
-- kinyoubi ni kanojo to paati ni ikimasu
-- maishuu doyobi ni nihongo benkyou wo shimasu
-- nichiyoubi ni kazoku to shokuji wo shimasu
