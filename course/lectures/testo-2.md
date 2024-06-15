@@ -45,8 +45,11 @@ Hajimemashite
 - bangohan no atode nani wo shimasuka = o que faz depois da janta?
   - netflix wo mimasu
 - nanji kara nanji made nihongo benkyo shimasuka = de que horas até que horas estuda nihongo?
+
+## Perguntas II
+
 - shumi wa nandesuka = qual seu hobby?
-  - hon wo yomu
+  - supootsu ga sukidesu
 - donna supootsu ga sukidesuka = que tipo de esporte você gosta?
   - sakka to tenisu ga sukidesu
 - yoku hon wo yomimasuka = Lê livros frequentemente?
@@ -62,6 +65,22 @@ Hajimemashite
 - roku gatsu, jyu yokka, kinyoubi
   - shigoto wo shimata, kankoku ryori no restoran ni ikimashita
   - tanoshikatta desu
+- doko ni ikimashitaka
+  - nihon ni ikimashita
+- itsu ikimashitaka
+  - kotoshi ikimashita
+- dooyatte ikimashitaka
+  - hikouki de ikimashita
+- doko ni tomarimashitaka
+  - hoteru ni tomarimashita
+- dare to ikimashitaka
+  - kanojo to ikimashita
+- nani wo shimashitaka
+  - sushi wo tabebashita to tokyo ni ikimashita
+- doodeshitaka
+  - tanoshitakkata desu
+- tsugi wa dokoni ikitaidesuka
+  - tsugi wa nagano ken ni ikitai desu
 
 Watashi no ichinichi wo hanashimashou
 
