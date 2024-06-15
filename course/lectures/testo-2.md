@@ -6,15 +6,6 @@
   - hai mini ikimasu | tabun mi ni ikimasu
 - isshoni mini ikimasenka = não quer ir junto?
   - ii desu ne, ikimashou
-- dooyatte ikimasuka = vai como? e.g. koko kara koen made dooyatte ikimasuka
-  - koen wa densha ga ii desu yo. Hayai desu kara
-  - densha de ikimasu
-  - densha ni norimasu
-  - ueno eki de orimasu
-- nan(i) ni norimasuka = vai de que?
-  - densha de ikimasu
-- dooshite soreni norimasuka = porque vai pegar esse transporte?
-  - benri desu kara. hayai desu kara. yasui desu kara
 - chizu = mapa
   - massugu ikimasu soshite migi ni ikimasu
 - ima doko desu ka = onde está agora?
@@ -90,3 +81,5 @@
 - hotteru kara ueno made, densha de ikimasu
 - ueno kara asakusa made, densha de ikimasu
 - asakusa kara sensooji made, aruite ikimasu
+- dooshite soreni norimasuka = porque vai pegar esse transporte?
+  - benri desu kara. hayai desu kara. yasui desu kara
