@@ -69,3 +69,9 @@
   - tanoshitakkata desu
 - tsugi wa dokoni ikitaidesuka
   - tsugi wa nagano ken ni ikitai desu
+
+## これください
+
+- susmimasen, m-saisu arimasuka
+- kite mitemoi desu ka
+- jaa, kore kudasai
