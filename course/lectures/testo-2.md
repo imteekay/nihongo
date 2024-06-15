@@ -72,7 +72,7 @@
 - dare to ikimashitaka
   - kanojo to ikimashita
 - nani wo shimashitaka
-  - sushi wo tabebashita to tokyo ni ikimashita
+  - sushi wo tabebashita shoshite tokyo ni ikimashita
 - doodeshitaka
   - tanoshitakkata desu
 - tsugi wa dokoni ikitaidesuka
