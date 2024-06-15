@@ -56,8 +56,8 @@
 
 - konshu wa doudeshitaka
   - restoran de kanojyou to tabeni ikimashita
-- doko ni konshu wa ikiashitaka
-  - restoran ni ikimashita, kankoku ryori restoran
+- doko ni konshu wa ikimashitaka
+  - kankoku ryori no restoran ni ikimashita
 - roku gatsu, jyu yokka, kinyoubi
   - shigoto wo shimata, kankoku ryori no restoran ni ikimashita
   - tanoshikatta desu
