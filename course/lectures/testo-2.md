@@ -59,7 +59,7 @@
 - doko ni konshu wa ikimashitaka
   - kankoku ryori no restoran ni ikimashita
 - roku gatsu, jyu yokka, kinyoubi
-  - shigoto wo shimata, kankoku ryori no restoran ni ikimashita
+  - shigoto wo shimashita, kankoku ryori no restoran ni ikimashita
   - tanoshikatta desu
 - doko ni ikimashitaka
   - nihon ni ikimashita
