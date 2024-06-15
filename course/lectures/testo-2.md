@@ -75,3 +75,9 @@
 - susmimasen, m-saisu arimasuka
 - kite mitemoi desu ka
 - jaa, kore kudasai
+
+## どうやっていきますか
+
+- hotteru kara ueno made, densha de ikimasu
+- ueno kara asakusa made, densha de ikimasu
+- asakusa kara sensooji made, aruite ikimasu
