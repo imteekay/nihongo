@@ -2,10 +2,6 @@
 
 ## Questions
 
-- shumi wa nandesuka = qual seu hobby?
-  - supootsu ga sukidesu
-- donna supootsu ga sukidesuka = que tipo de esporte você gosta?
-  - sakka to tenisu ga sukidesu
 - yasumi no hi wa nani wo shimashitaka = o que fez no seu dia de folga?
   - kazoku to kankoku no restoran de tabeni ikimashita
 - yasumi no hi wa doodeshitaka = como foi o seu dia de folga?
@@ -61,6 +57,13 @@
   - tanoshitakkata desu
 - tsugi wa dokoni ikitaidesuka
   - tsugi wa nagano ken ni ikitai desu
+
+## しゅみ
+
+- shumi wa nandesuka = qual seu hobby?
+  - supootsu ga sukidesu
+- donna supootsu ga sukidesuka = que tipo de esporte você gosta?
+  - sakka to tenisu ga sukidesu
 
 ## なにがほしいですか
 
