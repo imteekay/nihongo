@@ -62,15 +62,17 @@ Hajimemashite
   - ii desu ne, ikimashou
 - dooyatte ikimasuka = vai como? e.g. koko kara koen made dooyatte ikimasuka
   - koen wa densha ga ii desu yo. Hayai desu kara
-  - densha de ikiasu
+  - densha de ikimasu
   - densha ni norimasu
   - ueno eki de orimasu
-- nan ni norimasuka = vai de que?
+- nan(i) ni norimasuka = vai de que?
   - densha de ikiasu
 - dooshite soreni norimasuka = porque vai pegar esse transporte?
   - benri desu kara. hayai desu kara
 - chizu = mapa
   - massugu ikimasu soshite migi ni ikimasu
+- ima doko desu ka = onde está agora?
+  - ima wa eki no naka desu
 - yoku hon wo yomimasuka = Lê livros frequentemente?
   - hai, yoku yomimasu
 - konshu wa doudeshitaka
