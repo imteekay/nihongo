@@ -17,7 +17,7 @@ Learning japanese on my own way
 
 ## Resources
 
-- [⎡Eng Sub⎦How I taught myself Japanese!](https://www.youtube.com/watch?v=8WVVOXec5jA&ab_channel=Ananya%E3%82%A2%E3%83%8A%E3%83%B3%E3%83%A4)
+- [⎡Eng Sub⎦How I taught myself Japanese!](https://www.youtube.com/watch?v=8WVVOXec5jA)
 - [Minato e-learning](https://minato-jf.jp/Home/Back#CourseList)
 - [Marugoto Online](https://marugotoweb.jp/en/index.php)
 - [NHK Easy](https://www3.nhk.or.jp/news/easy)
