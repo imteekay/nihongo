@@ -35,3 +35,11 @@
   - ima, natsu desu. atsui desuyo
   - itsugoro aki ni narimasuka
   - kugatsu goro desu
+
+## Can-do 007
+
+- Falar de modo simples sobre a estação do ano da qual gosta e o motivo disso
+  - sukina kisetsu wa itsudesuka
+  - aki ga suki desu
+  - doushitedesuka
+  - samui no ga suki desu kara
