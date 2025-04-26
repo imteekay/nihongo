@@ -19,3 +19,11 @@
 - Falar sobre passatempos
   - shumi wa hon wo yomu koto desu.
   - tokuni baiogurafii ga ichiban suki desu.
+
+## Can-do 004
+
+- Ler comentários curtos a respeito da autoapresentação de alguém em um site.
+
+## Can-do 005
+
+- Escrever um comentário curto a respeito da autoapresentação de alguém em um site.
