@@ -27,3 +27,11 @@
 ## Can-do 005
 
 - Escrever um comentário curto a respeito da autoapresentação de alguém em um site.
+
+## Can-do 006
+
+- Falar de modo simples sobre a mudança das estações do ano
+  - nihon wa ima, donna kisetsu desuka
+  - ima, natsu desu. atsui desuyo
+  - itsugoro aki ni narimasuka
+  - kugatsu goro desu
