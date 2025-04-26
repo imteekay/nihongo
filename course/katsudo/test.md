@@ -43,3 +43,11 @@
   - aki ga suki desu
   - doushitedesuka
   - samui no ga suki desu kara
+
+## Can-do 008
+
+- Cumprimentar as pessoas fazendo comentários sobre o tempo
+  - samui desu ne
+  - atsui desu ne
+  - kinou wa samukatta desu ne
+  - kinou wa atsukatta desu ne
