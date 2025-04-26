@@ -51,3 +51,10 @@
   - atsui desu ne
   - kinou wa samukatta desu ne
   - kinou wa atsukatta desu ne
+
+## Can-do 010
+
+- Falar com seu amigo que lugar/bairro você recomenda, olhando o mapa da cidade
+  - koko wa ibirapuera koen desu
+  - kono atari ni wa iro iro na bijutsukan ga arimasu
+  - tanoshiikute, kirei desu
