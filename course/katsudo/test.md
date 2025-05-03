@@ -1,6 +1,12 @@
 # Test
 
-## Can-do 001
+- Conversação
+- Leitura
+  - Hiragana
+  - Katakana
+  - Falar o significado da frase
+
+## Can-do 001 (conversação)
 
 - Falar de forma simples sobre onde você e sua família moram e o que fazem.
   - Watashi wa kinoshita reandoro desu. 
@@ -14,7 +20,7 @@
   - watashi wa portugarugo to eigo ga dekimasu. nihongo ga chotto dekimasu.
   - obaachan wa nihonjin desu. watashitachi wa nihongo to porutogarugo de hanashimasu.
 
-## Can-do 003
+## Can-do 003 (conversação)
 
 - Falar sobre passatempos
   - shumi wa hon wo yomu koto desu.
