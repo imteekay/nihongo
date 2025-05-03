@@ -64,3 +64,13 @@
   - koko wa ibirapuera koen desu
   - kono atari ni wa iro iro na bijutsukan ga arimasu
   - tanoshiikute, kirei desu
+
+## Can-do 011 (conversação)
+
+## Can-do 015 (conversação)
+
+## Can-do 018 (conversação)
+
+## Can-do 020 (conversação)
+
+## Can-do 021 (conversação)
