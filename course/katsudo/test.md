@@ -42,7 +42,7 @@
   - itsugoro aki ni narimasuka
   - kugatsu goro desu
 
-## Can-do 007
+## Can-do 007 (conversação)
 
 - Falar de modo simples sobre a estação do ano da qual gosta e o motivo disso
   - sukina kisetsu wa itsudesuka
@@ -50,7 +50,7 @@
   - doushitedesuka
   - samui no ga suki desu kara
 
-## Can-do 008
+## Can-do 008 (conversação)
 
 - Cumprimentar as pessoas fazendo comentários sobre o tempo
   - samui desu ne
