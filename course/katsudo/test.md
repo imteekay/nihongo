@@ -67,10 +67,20 @@
 
 ## Can-do 011 (conversação)
 
+- Olhando o mapa, falar ao seu amigo como é o local pelo qual ele demonstrou interesse e com o que deve tomar cuidado
+
 ## Can-do 015 (conversação)
+
+- Falar com um amigo sobre o horário e o local do encontro
 
 ## Can-do 018 (conversação)
 
+- Convidar um amigo para ir a um lugar que você recomenda/responder ao convite
+
 ## Can-do 020 (conversação)
 
+- Falar sobre quais línguas estrangeiras que estudou até agora
+
 ## Can-do 021 (conversação)
+
+- Falar sobre as línguas estrangeiras que estudou até agora
