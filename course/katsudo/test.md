@@ -75,6 +75,8 @@
 ## Can-do 015 (conversação)
 
 - Falar com um amigo sobre o horário e o local do encontro
+  - nichiyoubi, machiawase wa doushimasuka
+  - jyuu ji ni, hoteru no robi- wa doudesuka
 
 ## Can-do 018 (conversação)
 
