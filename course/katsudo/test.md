@@ -77,6 +77,9 @@
 - Falar com um amigo sobre o horário e o local do encontro
   - nichiyoubi, machiawase wa doushimasuka
   - jyuu ji ni, hoteru no robi- wa doudesuka
+    - depato no iriguchi (entrada do depato)
+    - eki no mae
+    - kohi shopu
 
 ## Can-do 018 (conversação)
 
