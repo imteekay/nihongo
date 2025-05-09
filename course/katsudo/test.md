@@ -95,6 +95,12 @@
 ## Can-do 020 (conversação)
 
 - Falar sobre quais línguas estrangeiras que estudou até agora
+  - imamadeni donna gaikokugo wo benkyou shimashitaka
+  - shougakou no toki eigo wo benkoushimashita
+  - eigo wa doudesuka
+  - eigo wa bunpou ga kantandesu. hatsuon ga omoshiroi desu
+  - ima mo dekimasuka
+  - hai, dekimasu
 
 ## Can-do 021 (conversação)
 
