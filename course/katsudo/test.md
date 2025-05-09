@@ -84,6 +84,13 @@
 ## Can-do 018 (conversação)
 
 - Convidar um amigo para ir a um lugar que você recomenda/responder ao convite
+  - tawaa ni ikimashitaka
+    - hai, ikimashita
+    - soudesuka. jya, porque sim wa?
+  - tawaa ni ikimashitaka
+    - iie, mada desu
+    - jya, mini ikimasenka. yoru, tabemono oishii desuka (yoru, yakei ga kirei desu)
+    - ii desune, ikimashou
 
 ## Can-do 020 (conversação)
 
