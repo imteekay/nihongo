@@ -68,6 +68,9 @@
 ## Can-do 011 (conversação)
 
 - Olhando o mapa, falar ao seu amigo como é o local pelo qual ele demonstrou interesse e com o que deve tomar cuidado
+  - JF taun ha dono ataridesuka
+  - kono atari desu. resutoran ga ooi desu.
+  - resutoran ga oishii kedo, chotto takai desu
 
 ## Can-do 015 (conversação)
 
