@@ -68,7 +68,7 @@
 ## Can-do 011 (conversação)
 
 - Olhando o mapa, falar ao seu amigo como é o local pelo qual ele demonstrou interesse e com o que deve tomar cuidado
-  - JF taun ha dono ataridesuka
+  - JF taun wa dono ataridesuka
   - kono atari desu. resutoran ga ooi desu.
   - resutoran ga oishii kedo, chotto takai desu
 
@@ -89,7 +89,7 @@
     - soudesuka. jya, porque sim wa?
   - tawaa ni ikimashitaka
     - iie, mada desu
-    - jya, mini ikimasenka. yoru, tabemono oishii desuka (yoru, yakei ga kirei desu)
+    - jya, mini ikimasenka. yoru, tabemono oishii desu (yoru, yakei ga kirei desu)
     - ii desune, ikimashou
 
 ## Can-do 020 (conversação)
